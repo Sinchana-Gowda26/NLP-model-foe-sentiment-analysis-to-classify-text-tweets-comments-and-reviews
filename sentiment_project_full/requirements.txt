@@ -1,0 +1,11 @@
+streamlit
+tensorflow
+scikit-learn
+pandas
+numpy
+nltk
+datasets
+beautifulsoup4
+requests
+pypdf
+matplotlib
